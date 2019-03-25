@@ -17,10 +17,10 @@ The proper notation to run the file is:
 >python <--verbose> <input-filename> <algorithm>
 ```
 The possible algorithms are:
-fcfs
-rr
-uni
-sjf
+* fcfs
+* rr
+* uni
+* sjf
 
 Respectively, these are First Come First Served, Round Robin, Uniprocessor and Shortest Job First.
 
